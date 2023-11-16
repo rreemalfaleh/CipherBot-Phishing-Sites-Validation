@@ -37,9 +37,10 @@ Follow these steps to use the code:
 
 ## Note
 
-This repository was created for educational purposes and to demonstrate automated phishing site validation. It is crucial to use such tools responsibly and ethically. The script should not be used for any malicious activities or unauthorized access.
+This repository was created for educational purposes and to demonstrate automated phishing site validation. It is crucial to use such tools responsibly and ethically. The script should not be used for any malicious or unethical activities.
 
 ## Disclaimer
 
-This repository and its content were used for a presentation on black hat techniques. The intention is solely educational, and users are responsible for adhering to ethical standards and legal regulations.
+This repository and its content were used for a presentation at Black Hat Middle East and Africa (Riyadh, KSA). The intention is solely educational, and users are responsible for adhering to ethical standards and legal regulations.
+
 
