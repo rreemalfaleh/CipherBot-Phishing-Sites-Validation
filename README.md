@@ -11,7 +11,7 @@ This repository contains a Python script that automates the process of validatin
     more, to identify the impersonation.
 3. Cipher-BOT uses AI Vision and compares the two images and makes a decision.
 
-## Cipher-BOT: Sample Run 
+## Sample Run 
 
 ### Screenshots of URLs 
 <img src="readmeFiles/Screenshots.png"/>
@@ -81,5 +81,3 @@ This repository was created for educational purposes and to demonstrate automate
 ## Disclaimer
 
 This repository and its content were used for a presentation at Black Hat Middle East and Africa (Riyadh, KSA). The intention is solely educational, and users are responsible for adhering to ethical standards and legal regulations.
-
-
