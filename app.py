@@ -18,7 +18,7 @@ chrome_options.add_argument('--headless')
 browser = webdriver.Chrome(options=chrome_options)
 
 # Set the path to your service account key file
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"YOUR PATH\KEY.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"YOUR-PATH\KEY.json"
 
 # Set up the Google Cloud Vision client
 client = vision_v1.ImageAnnotatorClient()
