@@ -14,10 +14,10 @@ This repository contains a Python script that automates the process of validatin
 ## Cipher-BOT: Sample Run 
 
 ### Screenshots of URLs 
-<img src="readmeFiles/Screenshots.png" style="width:2000px;height:350px"/>
+<img src="readmeFiles/Screenshots.png"/>
 
 ### Cipher-BOT Report 
-<img src="readmeFiles/result.png" style="width:2000px;height:350px"/>
+<img src="readmeFiles/result.png"/>
 
 ### Report Explanation
 
